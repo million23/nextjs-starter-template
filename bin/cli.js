@@ -29,21 +29,21 @@ if (!removeGit) {
 	process.exit(-1);
 }
 
-console.log("\n\n\n");
+console.log("\n");
 console.log(
 	"Congratulations! Your project is ready. Please run the following commands to get started:"
 );
 console.log(`cd ${project_name}`);
 console.log("npm install");
 
-console.log("\n\n\n");
+console.log("\n");
 console.log("To start the development server:");
 console.log("npm run dev");
 
-console.log("\n\n\n");
+console.log("\n");
 console.log("To build the project:");
 console.log("npm run build");
 
-console.log("\n\n\n");
+console.log("\n");
 console.log("To start the production server:");
 console.log("npm run start");
