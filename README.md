@@ -1,6 +1,6 @@
 # @million23/nextjs Boilerplate
 
-This is a NextJS boilerplate with Framer Motion, Lucide for iconography, and next-themes for theme control. This NextJS project uses the `pages/` routing system, and I recommend to migrate this to `/app` directory (Refer to this [link](https://nextjs.org/docs/app/building-your-application/upgrading/app-router-migration) on how to migrate the project on `/app` directory). 
+This is a NextJS boilerplate with Framer Motion, Lucide for iconography, and next-themes for theme control. This NextJS project uses the `/pages` routing system, and I recommend to migrate this to `/app` directory (Refer to this [link](https://nextjs.org/docs/app/building-your-application/upgrading/app-router-migration) on how to migrate the project on `/app` directory). 
 
 I made this template for education purposes and to share the knowledge of basics of NextJS and React.
 
