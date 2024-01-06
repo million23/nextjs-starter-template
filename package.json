@@ -1,7 +1,8 @@
 {
-	"name": "raldstack-boilerplate",
+	"name": "@million23/nextjs",
 	"version": "0.1.0",
-	"private": true,
+	"description": "Nextjs boilerplate with Tailwindcss, ShadcnUI, Framer Motion, Lucide, and Next Themes",
+	"bin": "./bin/cli.js",
 	"scripts": {
 		"dev": "next dev --port 4321",
 		"build": "next build",
