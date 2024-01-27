@@ -1,4 +1,4 @@
-# @million23/nextjs Boilerplate
+# @million23/next NextJS 14 Boilerplate
 
 This is a NextJS boilerplate with Framer Motion, Lucide for iconography, and next-themes for theme control. This NextJS project uses the `/pages` routing system, and I recommend to migrate this to `/app` directory (Refer to this [link](https://nextjs.org/docs/app/building-your-application/upgrading/app-router-migration) on how to migrate the project on `/app` directory). 
 
@@ -9,7 +9,7 @@ I made this template for education purposes and to share the knowledge of basics
 1. Execute this command to clone the template
 
 ```bash
-npx @million23/nextjs project-name
+npx @million23/next project-name
 ```
 
 2. Go to your cloned project
