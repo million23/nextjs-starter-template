@@ -1,6 +1,6 @@
 {
 	"name": "@million23/next",
-	"version": "1.0.2",
+	"version": "1.0.21",
 	"description": "Nextjs boilerplate with Tailwindcss, ShadcnUI, Framer Motion, Lucide, and Next Themes",
 	"author": "Gerald Chavez",
 	"bin": "./bin/cli.js",
@@ -10,6 +10,7 @@
 		"start": "next start --port 4321",
 		"lint": "next lint"
 	},
+	"keywords": ["nexjs", "radix", "shadcn", "boilerplate", "framer-motion"],
 	"dependencies": {
 		"@hookform/resolvers": "^3.3.4",
 		"@radix-ui/react-accordion": "^1.1.2",
