@@ -9,7 +9,7 @@ I made this template for education purposes and to share the knowledge of basics
 1. Execute this command to clone the template
 
 ```bash
-npx @millon23/nextjs project-name
+npx @million23/nextjs project-name
 ```
 
 2. Go to your cloned project
