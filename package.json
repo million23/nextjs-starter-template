@@ -1,6 +1,6 @@
 {
 	"name": "@million23/nextjs",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Nextjs boilerplate with Tailwindcss, ShadcnUI, Framer Motion, Lucide, and Next Themes",
 	"author": "Gerald Chavez",
 	"bin": "./bin/cli.js",
